@@ -1,0 +1,783 @@
+adres, surface, energy_label, construction_year, rooms, type_woning, staat_woning, geschatte_prijs
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Noordeinde 109-C,0,C,0,0,''Beneden + bovenwoning'',none,€ 744.000 -822.000
+Miamihof 60,0,A+,0,0,'Eengezinswoning, Tussenwoning',none,€ 459.000 -507.000
+Tholensestraat 179,0,none,0,0,Benedenwoning,none,€ 428.000 -473.000
+Meierijlaan 59,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 619.000 -653.000
+Van Hoeylaan 59,0,none,0,0,Benedenwoning,none,€ 449.000 -497.000
+Adelheidstraat 21-A,0,C,0,0,Appartement,none,€ 573.000 -633.000
+Pieter van der Meulenlaan 31,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 636.000 -738.000
+Katwijkstraat 52-A,0,C,0,0,'Benedenwoning, Souterrain',none,€ 532.000 -612.000
+Cederstraat 41,0,E,0,0,Portiekflat,none,€ 395.000 -437.000
+Van Beverningkstraat 286,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 807.000 -878.000
+Klimopstraat 176,0,none,0,0,Woonhuis,none,€ 415.000 -459.000
+Volkerakstraat 80,0,none,0,0,Portiekflat,none,€ 276.000 -306.000
+Noorderbeekstraat 42,0,A++,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 725.000 k.k.
+Katschiplaan 114,0,A,0,0,Herenhuis,none,€ 601.000 -637.000
+Weimarstraat 8,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 1.047.000 -1.157.000
+Catharina van Rennesstraat 200,0,0,0,0,'Eengezinswoning, Eindwoning',none,€ 706.000 -780.000
+Hanso Idzerdapad 23,0,A,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.066.000 -1.200.000
+Gevers Deynootweg 119-B,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 583.000 -644.000
+Stevinstraat 29-1,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 661.000 -709.000
+Harmelenstraat 50,0,B,0,0,Bovenwoning,none,€ 250.000 -292.000
+Noordeinde 109-C,0,C,0,0,'Beneden + bovenwoning',none,€ 744.000 -822.000
+Miamihof 60,0,A+,0,0,'Eengezinswoning, Tussenwoning',none,€ 459.000 -507.000
+Tholensestraat 179,0,none,0,0,Benedenwoning,none,€ 428.000 -473.000
+Meierijlaan 59,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 619.000 -653.000
+Van Hoeylaan 59,0,none,0,0,Benedenwoning,none,€ 449.000 -497.000
+Adelheidstraat 21-A,0,C,0,0,Appartement,none,€ 573.000 -633.000
+Pieter van der Meulenlaan 31,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 636.000 -738.000
+Katwijkstraat 52-A,0,C,0,0,'Benedenwoning, Souterrain',none, € 532.000 -612.000
+Cederstraat 41,0,E,0,0,Portiekflat,none,€ 395.000 -437.000
+Van Beverningkstraat 286,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 807.000 -878.000 
+Klimopstraat 176,0,none,0,0,Woonhuis,none,€ 415.000 -459.000
+Volkerakstraat 80,0,none,0,0,Portiekflat,none,€ 276.000 -306.000
+Noorderbeekstraat 42,0,A++,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 725.000 k.k.
+Katschiplaan 114,0,A,0,0,Herenhuis,none,€ 601.000 -637.000
+Weimarstraat 8,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 1.047.000 -1.157.000
+Catharina van Rennesstraat 200,0,0,0,0,'Eengezinswoning, Eindwoning',none,€ 706.000 -780.000
+Hanso Idzerdapad 23,0,A,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.066.000 -1.200.000
+Gevers Deynootweg 119-B,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 583.000 -644.000
+Stevinstraat 29-1,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 661.000 -709.000
+Harmelenstraat 50,0,B,0,0,Bovenwoning,none,€ 250.000 -292.000
+Noordeinde 109-C,0,C,0,0,'Beneden + bovenwoning',none,€ 744.000 -822.000
+Miamihof 60,0,A+,0,0,'Eengezinswoning, Tussenwoning',none,€ 459.000 -507.000
+Tholensestraat 179,0,none,0,0,Benedenwoning,none,€ 428.000 -473.000
+Meierijlaan 59,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 619.000 -653.000
+Van Hoeylaan 59,0,none,0,0,Benedenwoning,none,€ 449.000 -497.000
+Adelheidstraat 21-A,0,C,0,0,Appartement,none,€ 573.000 -633.000
+Pieter van der Meulenlaan 31,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 636.000 -738.000
+Katwijkstraat 52-A,0,C,0,0,'Benedenwoning, Souterrain',none,€ 532.000 -612.000
+Cederstraat 41,0,E,0,0,Portiekflat,none,€ 395.000 -437.000
+Van Beverningkstraat 286,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 807.000 -878.000
+Klimopstraat 176,0,none,0,0,Woonhuis,none,€ 415.000 -459.000
+Volkerakstraat 80,0,none,0,0,Portiekflat,none,€ 276.000 -306.000
+Noorderbeekstraat 42,0,A++,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 725.000 k.k.
+Katschiplaan 114,0,A,0,0,Herenhuis,none,€ 601.000 -637.000
+Weimarstraat 8,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 1.047.000 -1.157.000
+Catharina van Rennesstraat 200,0,0,0,0,'Eengezinswoning, Eindwoning',none,€ 706.000 -780.000
+Hanso Idzerdapad 23,0,A,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.066.000 -1.200.000
+Gevers Deynootweg 119-B,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 583.000 -644.000
+Stevinstraat 29-1,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 661.000 -709.000
+Harmelenstraat 50,0,B,0,0,Bovenwoning,none,€ 250.000 -292.000
+Noordeinde 109-C,0,C,0,0,'Beneden + bovenwoning',none,€ 744.000 -822.000
+Miamihof 60,0,A+,0,0,'Eengezinswoning, Tussenwoning',none,€ 459.000 -507.000
+Tholensestraat 179,0,none,0,0,Benedenwoning,none,€ 428.000 -473.000
+Meierijlaan 59,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 619.000 -653.000
+Van Hoeylaan 59,0,none,0,0,Benedenwoning,none,€ 449.000 -497.000
+Adelheidstraat 21-A,0,C,0,0,Appartement,none,€ 573.000 -633.000
+Pieter van der Meulenlaan 31,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 636.000 -738.000
+Katwijkstraat 52-A,0,C,0,0,'Benedenwoning, Souterrain',none, € 532.000 -612.000
+Cederstraat 41,0,E,0,0,Portiekflat,none,€ 395.000 -437.000
+Van Beverningkstraat 286,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 807.000 -878.000
+Klimopstraat 176,0,none,0,0,Woonhuis,none,€ 415.000 -459.000
+Volkerakstraat 80,0,none,0,0,Portiekflat,none,€ 276.000 -306.000
+Noorderbeekstraat 42,0,A++,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 725.000 k.k.
+Katschiplaan 114,0,A,0,0,Herenhuis,none,€ 601.000 -637.000
+Weimarstraat 8,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 1.047.000 -1.157.000
+Catharina van Rennesstraat 200,0,0,0,0,'Eengezinswoning, Eindwoning',none,€ 706.000 -780.000
+Hanso Idzerdapad 23,0,A,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.066.000 -1.200.000
+Gevers Deynootweg 119-B,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 583.000 -644.000
+Stevinstraat 29-1,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 661.000 -709.000
+Harmelenstraat 50,0,B,0,0,Bovenwoning,none,€ 250.000 -292.000
+Noordeinde 109-C,0,C,0,0,'Beneden + bovenwoning',none,€ 744.000 -822.000
+Miamihof 60,0,A+,0,0,'Eengezinswoning, Tussenwoning',none,€ 459.000 -507.000
+Tholensestraat 179,0,none,0,0,Benedenwoning,none,€ 428.000 -473.000
+Meierijlaan 59,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 619.000 -653.000
+Van Hoeylaan 59,0,none,0,0,Benedenwoning,none,€ 449.000 -497.000
+Adelheidstraat 21-A,0,C,0,0,Appartement,none,€ 573.000 -633.000
+Pieter van der Meulenlaan 31,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 636.000 -738.000
+Katwijkstraat 52-A,0,C,0,0,'Benedenwoning, Souterrain',none,€ 532.000 -612.000
+Cederstraat 41,0,E,0,0,Portiekflat,none,€ 395.000 -437.000
+Van Beverningkstraat 286,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 807.000 -878.000 
+Klimopstraat 176,0,none,0,0,Woonhuis,none,€ 415.000 -459.000
+Volkerakstraat 80,0,none,0,0,Portiekflat,none,€ 276.000 -306.000
+Noorderbeekstraat 42,0,A++,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 725.000 k.k.
+Katschiplaan 114,0,A,0,0,Herenhuis,none,€ 601.000 -637.000
+Weimarstraat 8,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 1.047.000 -1.157.000
+Catharina van Rennesstraat 200,0,0,0,0,'Eengezinswoning, Eindwoning',none,€ 706.000 -780.000
+Hanso Idzerdapad 23,0,A,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.066.000 -1.200.000
+Gevers Deynootweg 119-B,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 583.000 -644.000
+Stevinstraat 29-1,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 661.000 -709.000
+Harmelenstraat 50,0,B,0,0,Bovenwoning,none,€ 250.000 -292.000
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Max Euweweg 23,0,A,0,0,Appartement,Uitstekend,€ 694.000 -782.000
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Rijswijkseweg 412,0,D,0,0,Bovenwoning,none,€ 242.000 -268.000
+Mandarijnstraat 33,0,D,0,0,Benedenwoning,Uitstekend,€ 624.000 -690.000
+Van Beverningkstraat 286,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 807.000 -878.000
+Mandarijnstraat 33,0,D,0,0,Benedenwoning,Uitstekend,€ 624.000 -690.000
+IJmuidenstraat 7,0,0,0,0,'Eengezinswoning, Tussenwoning',none,€ 449.000 -528.000
+Seinpoststraat 104-A,0,B,0,0,Bovenwoning,none,€ 465.000 -564.000
+Ellertsveldlaan 97,0,A,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 830.000 k.k.
+Rode Leeuwstraat 29,0,B,0,0,Benedenwoning,none,€ 379.000 k.k.
+Snoekbaarssingel 67,0,B,0,0,Galerijflat,none,€ 359.000 k.k.
+Anthony Fokkersingel 82,0,A,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 689.000 k.k.
+Van Zaeckstraat 27,0,G,0,0,'Bovenwoning, Souterrain',Ja,€ 495.000 k.k.
+Luchtenburglaan 13,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 550.000 k.k.
+Fraeylemastraat 7,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 675.000 k.k.
+Meppelrade 33,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 510.000 k.k.
+Kepplerstraat 197,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 450.000 k.k.
+Renswoudelaan 21,0,F,0,0,Benedenwoning,none,€ 299.000 k.k.
+Van Neckstraat 79,0,F,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 652.000 -720.000
+Lau Mazirellaan 253,0,A,0,0,Eengezinswoning,none,€ 479.000 k.k.
+Louis Davidsstraat 146,0,C,0,0,Portiekflat,none,€ 283.000 -313.000
+Vaillantlaan 620,0,B,0,0,'Portiekflat, Bel-etage',Goed,€ 299.000 k.k.
+Laan van Scheltema 25,0,A+,0,0,'Eengezinswoning, 2-onder-1-kapwoning',Goed,€ 540.000 -596.000
+Esdoornstraat 14,0,G,0,0,Bovenwoning,none,€ 216.000 -238.000
+Esdoornstraat 16-B,0,F,0,0,'Portiekflat, Bel-etage',none,€ 222.000 -246.000
+Esdoornstraat 18,0,E,0,0,Benedenwoning,none,€ 232.000 -256.000
+Esdoornstraat 18-A,0,E,0,0,Benedenwoning,none,€ 235.000 -259.000
+Esdoornstraat 18-C,0,E,0,0,Benedenwoning,none,€ 230.000 -254.000
+Esdoornstraat 14-A,0,G,0,0,'Portiekflat, Bel-etage',none,€ 231.000 -255.000
+Thijssestraat 259,0,A,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 319.500 k.k.
+Fultonstraat 103,0,none,0,0,Bovenwoning,none,€ 375.000 k.k.
+Schelfhoutstraat 8,0,D,0,0,'Eengezinswoning, Hoekwoning',none,€ 425.000 k.k.
+Van Alkemadelaan 401,0,0,0,0,'Eengezinswoning, 2-onder-1-kapwoning',Uitstekend,€ 770.000 -816.000
+Zeesluisweg 166,0,E,0,0,Portiekflat,none,€ 275.000 k.k.
+De Brink 380,0,A++++,0,0,'Galerijflat, Bel-etage',none,€ 249.000 k.k.
+De Heemstraat 380,0,C,0,0,Benedenwoning,Uitstekend,€ 395.000 k.k.
+De Constant Rebecquestraat 8,0,F,0,0,Bovenwoning,none,€ 339.000 k.k.
+Koningin Emmakade 23,0,C,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 685.000 k.k.
+Nunspeetlaan 355,0,0,0,0,Benedenwoning,none,€ 329.500 k.k.
+Van Veendijk 51,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 604.000 -653.000
+Muzenplein 57,0,A,0,0,Bovenwoning,none,€ 650.000 k.k.
+Werfstraat 48,0,F,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 325.000 k.k.
+Pieter van den Zandestraat 5,0,C,0,0,Bovenwoning,none,€ 352.000 k.k.
+Sportlaan 1078,0,C,0,0,'Galerijflat, Dubbel bovenhuis',Goed,€ 450.000 k.k.
+Pomonaplein 88,0,C,0,0,'Portiekwoning, Dubbel bovenhuis',none,€ 400.000 k.k.
+Maasstraat 291,0,E,0,0,Bovenwoning,none,€ 295.000 k.k.
+Zeekant 101-D,0,C,0,0,Portiekflat,none,€ 490.000 k.k.
+Oude Polderweg 1,0,A,0,0,'Eengezinswoning, Hoekwoning',Uitstekend,€ 678.000 -730.000
+Spionkopstraat 12,0,none,0,0,Benedenwoning,none,€ 249.500 k.k.
+Wildhoeflaan 16,0,F,0,0,'Herenhuis, Hoekwoning',none,€ 1.450.000 k.k.
+Gedempte Gracht 511,0,C,0,0,Galerijflat,none,€ 299.000 k.k.
+Albert Schweitzerlaan 229,0,C,0,0,Maisonnette,none,€ 350.000 k.k.
+Pauwenlaan 32,0,F,0,0,'Herenhuis, Hoekwoning',none,€ 1.195.000 k.k.
+Olgaland 27,0,C,0,0,'Eengezinswoning, Hoekwoning',none,€ 749.000 k.k.
+Gravin Jacobalaan 10,0,A++,0,0,'Villa, Vrijstaande woning',none,€ 1.750.000 k.k.
+Populierstraat 88,0,E,0,0,Benedenwoning,Uitstekend,€ 450.000 k.k.
+Burgemeester Kolfschotenlaan 57,0,A,0,0,Woonhuis,none,€ 960.000 k.k.
+Joseph Ledelstraat 1-3,0,A,0,0,Benedenwoning,none,€ 450.000 k.k.
+Joseph Ledelstraat 1-5,0,A,0,0,Benedenwoning,none,€ 450.000 k.k.
+Joseph Ledelstraat 1-1,0,A,0,0,Benedenwoning,none,€ 650.000 k.k.
+Joseph Ledelstraat 1-2,0,A+,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 650.000 k.k.
+Nieuwe Parklaan 92,0,D,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.750.000 k.k.
+Binnentuinen 1,0,G,0,0,'Eengezinswoning, Hoekwoning',none,€ 281.000 -311.000
+Van Beverningkstraat 166,0,0,0,0,Woonhuis,none,€ 1.290.000 k.k.
+Anna van Buerenplein 54,0,A,0,0,Portiekflat,none,€ 699.000 k.k.
+Harlekijneendstraat 6,0,A,0,0,'Herenhuis, Tussenwoning',none,€ 725.000 k.k.
+Wassenaarsestraat 178,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 600.000 k.k.
+Laan van Meerdervoort 800,0,D,0,0,Herenhuis,none,€ 750.000 k.k.
+Havannasingel 53,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 575.000 k.k.
+Hattemlaan 4,0,D,0,0,Portiekflat,none,€ 239.000 k.k.
+Blaricumseplein 37,0,F,0,0,Portiekflat,none,€ 269.000 k.k.
+Burgemeester Patijnlaan 428,0,C,0,0,Maisonnette,none,€ 375.000 k.k.
+Gotland 27,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 510.000 k.k.
+Rhododendronstraat 43,0,E,0,0,Benedenwoning,none,€ 275.000 k.k.
+Gymnastiekplein 11,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 495.000 k.k.
+Wolweversgaarde 683,0,C,0,0,Portiekflat,none,€ 235.000 k.k.
+Hooftskade 105,0,B,0,0,Benedenwoning,none,€ 490.000 k.k.
+Dirk Hoogenraadstraat 121,0,D,0,0,'Benedenwoning, Bel-etage',none,€ 575.000 k.k.
+Nobelstraat 8,0,A,0,0,Bovenwoning,none,€ 689.000 k.k.
+Fischerstraat 201,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 450.000 k.k.
+Zeekant 103-A,0,C,0,0,Maisonnette,Goed,€ 415.000 k.k.
+Van Essendijk 154,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 475.000 k.k.
+Bosschestraat 54,0,B,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 365.000 k.k.
+Monstersestraat 160,0,D,0,0,Benedenwoning,none,€ 279.000 k.k.
+Violenweg 12,0,C,0,0,'Villa, 2-onder-1-kapwoning',none,€ 2.950.000 k.k.
+Toussaintkade 6,0,C,0,0,Bovenwoning,none,€ 349.500 k.k.
+Lyonnetstraat 63,0,D,0,0,Benedenwoning,none,€ 285.000 k.k.
+Terschellingsestraat 27,0,F,0,0,'Eengezinswoning, Tussenwoning',Goed,€ 452.000 -537.000
+Isabellaland 1552,0,G,0,0,Galerijflat,Ja,€ 225.000 k.k.
+Celebesstraat 90,0,F,0,0,'Herenhuis, Hoekwoning',none,€ 1.495.000 k.k.
+Burgemeester De Monchyplein 89,0,B,0,0,Bovenwoning,Ja,€ 750.000 k.k.
+Thomsonlaan 105-E,0,A+++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Koppelstokstraat 15,0,A,0,0,'Eengezinswoning, Geschakelde woning',none,€ 949.500 k.k.
+Weteringkade 79,0,B,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 415.000 k.k.
+Schalk Burgerstraat 66,0,none,0,0,Portiekwoning,none,€ 239.000 k.k.
+Liemerssingel 8,0,A,0,0,Herenhuis,none,€ 749.000 k.k.
+Ripperdastraat 5,0,C,0,0,Benedenwoning,none,€ 470.000 k.k.
+Ripperdastraat 7,0,none,0,0,Maisonnette,none,€ 565.000 k.k.
+Kepplerstraat 166,0,0,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 575.000 k.k.
+Nieuwe Parklaan 159,0,E,0,0,Bovenwoning,none,€ 975.000 k.k.
+Polsbroekstraat 46,0,D,0,0,Portiekflat,none,€ 237.500 k.k.
+Narcislaan 321,0,E,0,0,Benedenwoning,none,€ 315.000 k.k.
+San Franciscosingel 52,0,A,0,0,'Eengezinswoning, Eindwoning',none,€ 575.000 k.k.
+Beeldsnijdersgaarde 79,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 450.000 k.k.
+Noorderbeekdwarsstraat 23,0,0,0,0,'Herenhuis, Hoekwoning',none,€ 650.000 k.k.
+Zeekant 46-A,0,F,0,0,'Benedenwoning, Souterrain',none,€ 250.000 k.k.
+Abeelstraat 20,0,F,0,0,Portiekflat,none,€ 437.000 -483.000
+Groenland 18,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 525.000 k.k.
+Van Lennepweg 26,0,B,0,0,'Herenhuis, Tussenwoning',none,€ 1.750.000 k.k.
+Bragastraat 8,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',Ja,€ 289.000 k.k.
+Schenkkade 252,0,C,0,0,'Beneden + bovenwoning',none,€ 595.000 k.k.
+Luxemburgstraat 53,0,G,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 250.000 k.k.
+Abdis Badelogehof 4,0,A,0,0,'Villa, Vrijstaande woning',none,€ 1.395.000 k.k.
+Elisabeth Brugsmaweg 1-102,0,D,0,0,Benedenwoning,none,€ 200.000 k.k.
+Theo Mann-Bouwmeesterlaan 47,0,C,0,0,Maisonnette,none,€ 470.000 k.k.
+Vreeswijkstraat 19,0,D,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 400.000 k.k.
+Watervogelstraat 19,0,A,0,0,'Herenhuis, Tussenwoning',none,€ 575.000 k.k.
+Okkernootstraat 30,0,G,0,0,Portiekwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 119,0,G,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 449.500 k.k.
+Rederijkerstraat 81,0,E,0,0,Portiekflat,none,€ 239.500 k.k.
+Vrederustlaan 303,0,A,0,0,'Eengezinswoning, Eindwoning',none,€ 519.995 k.k.
+Hulshorststraat 243,0,F,0,0,Benedenwoning,none,€ 260.000 k.k.
+Westenbergstraat 136,0,C,0,0,Bovenwoning,none,€ 352.500 k.k.
+Van den Berghstraat 77,0,G,0,0,Maisonnette,none,€ 245.000 k.k.
+Breitnerlaan 112,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 766.000 -899.000
+De la Reyweg 28,0,D,0,0,Benedenwoning,none,€ 329.500 k.k.
+Troelstrakade 43-C,0,A,0,0,Portiekflat,none,€ 349.500 k.k.
+Pippelingstraat 19,0,G,0,0,Bovenwoning,none,€ 339.500 k.k.
+Frederik Hendriklaan 200,0,G,0,0,'Benedenwoning, Dubbel bovenhuis',none,€ 982.000 -1.077.000
+Harstenhoekweg 131,0,0,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 595.000 k.k.
+De Gheijnstraat 36,0,E,0,0,'Eengezinswoning, Tussenwoning',none,€ 298.000 -330.000
+Henri Duparcplantsoen 43,0,C,0,0,Galerijflat,none,€ 194.000 k.k.
+Thomsonplein 31,0,D,0,0,'Eengezinswoning, Tussenwoning',none,€ 707.000 -833.000
+Guirlande 109,0,A,0,0,'Eengezinswoning, Halfvrijstaande woning',none,€ 845.000 k.k.
+Hart Nibbrigkade 25,0,B,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 695.000 k.k.
+Burgemeester Waldeckstraat 24 ,0,D,0,0,'Eengezinswoning, Tussenwoning',none,€ 275.000 k.k.
+Deltaplein 209,0,A,0,0,Bovenwoning,none,€ 1.590.000 k.k.
+Florence Nightingaleweg 18,0,A+++,0,0,'Eengezinswoning, Tussenwoning',none,€ 625.000 k.k.
+Prinsegracht 45,0,B,0,0,'Beneden + 'Bovenwoning, Souterrain',none,€ 499.000 k.k.
+Maarsbergenstraat 91,0,C,0,0,Benedenwoning,none,€ 279.000 k.k.
+Arenastraat 13,0,A,0,0,'Herenhuis, 2-onder-1-kapwoning',none,€ 739.500 k.k.
+Havannasingel 23,0,none,0,0,Galerijflat,none,€ 325.000 k.k.
+Prins Mauritslaan 17,0,E,0,0,'Herenhuis, Hoekwoning',none,€ 1.150.000 k.k.
+Vogelwikke 1,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 500.000 k.k.
+Medemblikstraat 72,0,A,0,0,Benedenwoning,none,€ 249.000 k.k.
+Coornhertstraat 19,0,E,0,0,'Portiekwoning, Dubbel bovenhuis',none,€ 295.000 k.k.
+Mosselsingel 7,0,B,0,0,'Eengezinswoning, Eindwoning',none,€ 535.000 k.k.
+De Brink 878,0,E,0,0,Portiekflat,none,€ 225.000 k.k.
+Wezelrade 147-A,0,C,0,0,'Portiekflat, Corridorflat',none,€ 225.000 k.k.
+Van Baaklaan 136,0,A,0,0,Bovenwoning,none,€ 410.000 k.k.
+Uddelstraat 91,0,A,0,0,Benedenwoning,none,€ 350.000 k.k.
+Zeewindelaan 8,0,B,0,0,'Herenhuis, Tussenwoning',none,€ 725.000 k.k.
+Hengelolaan 1232,0,E,0,0,Portiekflat,none,€ 295.000 k.k.
+Bocht van Guinea 6,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 569.000 k.k.
+Maarsbergenstraat 428,0,D,0,0,Appartement,none,€ 400.000 k.k.
+Steijnlaan 296,0,B,0,0,Galerijflat,none,€ 325.000 k.k.
+Edisonstraat 109,0,A,0,0,Bovenwoning,none,€ 375.000 k.k.
+Hoogeveenlaan 4-A,0,none,0,0,Maisonnette,none,€ 425.000 k.k.
+Egelantierstraat 39,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 475.000 k.k.
+Rotterdamsestraat 2-18,0,B,0,0,Bovenwoning,Uitstekend,€ 344.000 -379.000
+Dedemsvaartweg 1181,0,C,0,0,Bovenwoning,none,€ 295.000 k.k.
+Paramaribostraat 2-C,0,B,0,0,Portiekflat,none,€ 319.000 k.k.
+Mezenlaan 67,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 750.000 k.k.
+Frambozenstraat 74,0,F,0,0,Benedenwoning,none,€ 450.000 k.k.
+De Brink 790,0,E,0,0,Maisonnette,none,€ 375.000 k.k.
+Brilduikerstraat 62,0,A<small,0,0,'Eengezinswoning, Hoekwoning',Goed,€ 450.000 -496.000
+Seringenstraat 19,0,C,0,0,Bovenwoning,none,€ 282.500 k.k.
+Spireaveld 15,0,A,0,0,'Herenhuis, 2-onder-1-kapwoning',none,€ 740.000 k.k.
+De Perponcherstraat 112-B,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 699.500 k.k.
+Dalerveenstraat 12,0,A+,0,0,'Eengezinswoning, Eindwoning',none,€ 499.000 k.k.
+Halleystraat 59,0,C,0,0,Portiekflat,none,€ 300.000 k.k.
+Katschiplaan 112,0,A++,0,0,'Herenhuis, Hoekwoning',Uitstekend,€ 650.000 k.k.
+Jonckbloetplein 22,0,none,0,0,Portiekwoning,none,€ 234.500 k.k.
+Bussumsestraat 134,0,C,0,0,Benedenwoning,none,€ 270.000 k.k.
+Menkemastraat 34,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 495.000 k.k.
+Valkenboskade 108,0,F,0,0,Bovenwoning,none,€ 275.000 k.k.
+Dedemsvaartweg 825,0,0,0,0,Portiekflat,none,€ 425.000 k.k.
+Engelwortel 10,0,A,0,0,'Villa, Vrijstaande woning',none,€ 1.203.000 -1.324.000
+Troelstrakade 377,0,G,0,0,Portiekflat,none,€ 225.000 k.k.
+Burgemeester Patijnlaan 712,0,C,0,0,Bovenwoning,Ja,€ 307.000 -348.000
+Bergermeerstraat 63,0,A,0,0,Galerijflat,none,€ 382.500 k.k.
+Brugsestraat 7,0,E,0,0,'Eengezinswoning, Tussenwoning',none,€ 1.550.000 k.k.
+Abdis Heilwichstraat 32,0,A++,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 720.000 k.k.
+Senecastraat 23,0,A,0,0,'Herenhuis, Half vrijstaande woning',none,€ 749.500 k.k.
+Grevenbergstraat 11,0,A,0,0,Portiekflat,none,€ 365.000 k.k.
+Thomsonlaan 105-A,0,A+++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Thomsonlaan 107-A,0,A+++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Thomsonlaan 105-B,0,A++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Aalbessenstraat 20,0,C,0,0,Portiekflat,none,€ 275.000 k.k.
+Wingerd 103,0,A,0,0,'Villa, Vrijstaande woning',none,€ 1.450.000 k.k.
+Badhuisstraat 183,0,C,0,0,Benedenwoning,none,€ 347.500 k.k.
+Aalbessenstraat 17,0,A,0,0,Bovenwoning,none,€ 495.000 k.k.
+'s-Gravenzandelaan 122,0,E,0,0,Benedenwoning,none,€ 275.000 k.k.
+'s-Gravenzandelaan 124,0,E,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 325.000 k.k.
+Exloostraat 111,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 435.000 k.k.
+Houtzagerssingel 15,0,E,0,0,Benedenwoning,none,€ 250.000 k.k.
+Middenstip 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 535.000 k.k.
+Valkenboslaan 28,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',Ja,€ 699.000 k.k.
+De Genestetlaan 54,0,0,0,0,Portiekflat,none,€ 209.000 k.k.
+Damasstraat 184,0,E,0,0,Benedenwoning,none,€ 279.500 k.k.
+Rijswijkse Landingslaan 134,0,A,0,0,'Beneden + bovenwoning',none,€ 385.000 k.k.
+Zevensterveld 8,0,B,0,0,'Herenhuis, Hoekwoning',none,€ 685.000 k.k.
+Amandelstraat 68,0,G,0,0,Portiekflat,none,€ 450.000 k.k.
+Melis Stokelaan 1856,0,A,0,0,Tussenverdieping, Corridorflat,none,€ 340.000 k.k.
+Mozartlaan 288,0,E,0,0,Galerijflat,none,€ 239.000 k.k.
+Volendamlaan 1174,0,A,0,0,Maisonnette,none,€ 429.000 k.k.
+Regentesselaan 322-A,0,E,0,0,'Bovenwoning, Dubbel bovenhuis',Ja,€ 340.000 k.k.
+Uitgeeststraat 25,0,C,0,0,Galerijflat,none,€ 275.000 k.k.
+Vreeswijkstraat 116,0,F,0,0,Portiekflat,none,€ 219.500 k.k.
+Van Alkemadelaan 412,0,E,0,0,Portiekflat,Goed,€ 500.000 k.k.
+Laan van Wateringse Veld 334,0,A,0,0,Galerijflat,none,€ 429.000 k.k.
+Biancaland 92,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 539.500 k.k.
+Prinsestraat 61,0,0,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 499.000 k.k.
+Spionkopstraat 122,0,E,0,0,Portiekwoning,none,€ 220.000 k.k.
+Veenendaalkade 465,0,E,0,0,Portiekflat,none,€ 269.000 k.k.
+Van Baaklaan 176,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 525.000 k.k.
+Van Boetzelaerlaan 310,0,A+++,0,0,'Herenhuis, Tussenwoning',none,€ 1.700.000 k.k.
+Prins Hendrikstraat 95-A,0,C,0,0,Portiekwoning,none,€ 1.250.000 k.k.
+Elise van Calcarstraat 49,0,E,0,0,'Benedenwoning, Hoekwoning',none,€ 267.500 k.k.
+Linnaeusstraat 154,0,G,0,0,Bovenwoning,none,€ 220.000 k.k.
+Zuiderparklaan 390,0,0,0,0,Portiekflat,none,€ 267.500 k.k.
+Thorbeckelaan 625,0,E,0,0,Bovenwoning,none,€ 527.000 -583.000
+Oude Buizerdlaan 24,0,E<small,0,0,'Herenhuis, Eindwoning',Goed,€ 950.000 k.k.
+Hoenderloostraat 78,0,B,0,0,Portiekflat,none,€ 239.500 k.k.
+Van der Helststraat 34,0,G,0,0,Portiekwoning,none,€ 260.000 k.k.
+Gevers Deynootweg 1106,0,C,0,0,Portiekflat,none,€ 330.000 k.k.
+Wolmaransstraat 132,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 475.000 k.k.
+Oosteinde 90,0,A,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 750.000 k.k.
+Starterstraat 15,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 325.000 k.k.
+Elisabeth Brugsmaweg 1-120,0,0,0,0,Benedenwoning,none,€ 210.000 k.k.
+Pieter Spastraat 4,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 339.000 k.k.
+Koninginnegracht 76,0,C,0,0,'Herenhuis, Tussenwoning',none,€ 1.675.000 k.k.
+Kokkelsingel 13,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 419.000 k.k.
+Schoutendreef 397,0,E,0,0,Portiekflat,none,€ 238.000 k.k.
+Meppelweg 814-C,0,A,0,0,Portiekflat,none,€ 389.000 k.k.
+Akeleistraat 98,0,A,0,0,Portiekflat,none,€ 519.500 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Hilgersstraat 3,0,B,0,0,'Eengezinswoning, Hoekwoning',none,€ 550.000 k.k.
+Akeleistraat 98,0,A,0,0,Portiekflat,none,€ 519.500 k.k.
+Oeverwallaan 77,0,A,0,0,Woonhuis,none,€ 595.000 k.k.
+Leyweg 733,0,D,0,0,Maisonnette,none,€ 209.500 k.k.
+Constance Gelderblomlaan 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 585.000 k.k.
+Pasteurstraat 304,0,0,0,0,Bovenwoning,none,€ 285.000 k.k.
+Veluweplein 4,0,D,0,0,Portiekflat,none,€ 298.000 k.k.
+Cees Laseurlaan 261,0,F,0,0,Appartement,none,€ 465.000 k.k.
+Broekslootkade 20,0,D,0,0,Portiekflat,none,€ 225.000 k.k.
+Grevenbergstraat 97,0,A,0,0,Portiekflat,none,€ 375.000 k.k.
+Laurierstraat 3,0,C,0,0,Benedenwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 14-A,0,B,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootplein 137,0,C,0,0,Bovenwoning,Uitstekend,€ 695.000 k.k.
+Soestdijksekade 509,0,E,0,0,Benedenwoning,none,€ 395.000 k.k.
+Cartesiusstraat 131,0,C,0,0,Benedenwoning,none,€ 350.000 k.k.
+Lyonnetstraat 112,0,G,0,0,Portiekflat,none,€ 199.500 k.k.
+Allard Piersonlaan 181,0,G,0,0,Bovenwoning,none,€ 175.000 k.k.
+Lage Zand 270,0,A,0,0,Portiekflat,none,€ 595.000 k.k.
+Hulshorststraat 255,0,A,0,0,Benedenwoning,none,€ 325.000 k.k.
+Stationsweg 71-A,0,A,0,0,Bovenwoning,none,€ 325.000 k.k.
+Gevers Deynootweg 19-Q,0,A,0,0,Penthouse,none,€ 697.000 -771.000
+Lübeckstraat 85,0,F,0,0,Portiekflat,none,€ 711.000 -719.000
+Paul Gabriëlstraat 119,0,D,0,0,Benedenwoning,none,€ 771.000 -942.000
+Van Boetzelaerlaan 198,0,none,0,0,'Herenhuis, Tussenwoning',Goed,€ 987.000 -1.091.000
+Langnekstraat 10,0,A,0,0,'Eengezinswoning, Tussenwoning',Goed,€ 435.000 k.k.
+Goudkarpersingel 24,0,A,0,0,'Herenhuis, Geschakelde woning',none,€ 568.000 -628.000 
+Stiemensvaart 13,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 410.000 -472.000
+Vlinderhof 11,0,A++,0,0,'Villa, Vrijstaande woning',Uitstekend,€ 953.000 -1.153.000
+Javastraat 2-A,0,F,0,0,'Villa, Tussenwoning',none,€ 1.935.000 -2.036.000
+Valkenbosplein 17-B,0,C,0,0,Portiekflat,Uitstekend,€ 250.000 -271.000
+Laan van Meerdervoort 565,0,D,0,0,'Herenhuis, Tussenwoning',none,€ 960.000 -1.134.000
+Pauwenlaan 98,0,0,0,0,'Eengezinswoning, Tussenwoning',none,€ 805.000 -889.000
+Helmersstraat 18,0,E,0,0,Bovenwoning,none,€ 800.000 k.k.
+Hoogeveenlaan 18-F,0,A,0,0,'Herenhuis, Tussenwoning',Goed,€ 576.000 -636.000
+Van der Capellenstraat 76,0,F,0,0,Bovenwoning,none,€ 383.000 -468.000
+Waterbiesweg 29,0,A,0,0,'Eengezinswoning, Hoekwoning',Uitstekend,€ 766.000 -882.000
+Van Loostraat 3,0,E,0,0,Benedenwoning,none,€ 627.000 -693.000
+Albert Schweitzerlaan 86,0,C,0,0,'Eengezinswoning, Hoekwoning',Goed,€ 469.000 -502.000
+Laantje van Peel 24,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 950.000 k.k.
+Van Heutszstraat 79,0,D,0,0,Benedenwoning,none,€ 495.000 k.k.
+Mandarijnstraat 33,0,D,0,0,Benedenwoning,Uitstekend,€ 624.000 -690.000
+IJmuidenstraat 7,0,0,0,0,'Eengezinswoning, Tussenwoning',none,€ 449.000 -528.000
+Seinpoststraat 104-A,0,B,0,0,Bovenwoning,none,€ 465.000 -564.000
+Ellertsveldlaan 97,0,A,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 830.000 k.k.
+Rode Leeuwstraat 29,0,B,0,0,Benedenwoning,none,€ 379.000 k.k.
+Snoekbaarssingel 67,0,B,0,0,Galerijflat,none,€ 359.000 k.k.
+Anthony Fokkersingel 82,0,A,0,0,'Herenhuis, Tussenwoning',Uitstekend,€ 689.000 k.k.
+Van Zaeckstraat 27,0,G,0,0,'Bovenwoning, Souterrain',Ja,€ 495.000 k.k.
+Luchtenburglaan 13,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 550.000 k.k.
+Fraeylemastraat 7,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 675.000 k.k.
+Meppelrade 33,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 510.000 k.k.
+Kepplerstraat 197,0,D,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 450.000 k.k.
+Renswoudelaan 21,0,F,0,0,Benedenwoning,none,€ 299.000 k.k.
+Van Neckstraat 79,0,F,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 652.000 -720.000
+Lau Mazirellaan 253,0,A,0,0,Eengezinswoning,none,€ 479.000 k.k.
+Louis Davidsstraat 146,0,C,0,0,Portiekflat,none,€ 283.000 -313.000
+Vaillantlaan 620,0,B,0,0,'Portiekflat, Bel-etage',Goed,€ 299.000 k.k.
+Laan van Scheltema 25,0,A+,0,0,'Eengezinswoning, 2-onder-1-kapwoning',Goed,€ 540.000 -596.000
+Esdoornstraat 14,0,G,0,0,Bovenwoning,none,€ 216.000 -238.000
+Esdoornstraat 16-B,0,F,0,0,'Portiekflat, Bel-etage',none,€ 222.000 -246.000
+Esdoornstraat 18,0,E,0,0,Benedenwoning,none,€ 232.000 -256.000
+Esdoornstraat 18-A,0,E,0,0,Benedenwoning,none,€ 235.000 -259.000
+Esdoornstraat 18-C,0,E,0,0,Benedenwoning,none,€ 230.000 -254.000
+Esdoornstraat 14-A,0,G,0,0,'Portiekflat, Bel-etage',none,€ 231.000 -255.000
+Thijssestraat 259,0,A,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 319.500 k.k.
+Fultonstraat 103,0,none,0,0,Bovenwoning,none,€ 375.000 k.k.
+Schelfhoutstraat 8,0,D,0,0,'Eengezinswoning, Hoekwoning',none,€ 425.000 k.k.
+Van Alkemadelaan 401,0,0,0,0,'Eengezinswoning, 2-onder-1-kapwoning',Uitstekend,€ 770.000 -816.000
+Zeesluisweg 166,0,E,0,0,Portiekflat,none,€ 275.000 k.k.
+De Brink 380,0,A++++,0,0,'Galerijflat, Bel-etage',none,€ 249.000 k.k.
+De Heemstraat 380,0,C,0,0,Benedenwoning,Uitstekend,€ 395.000 k.k.
+De Constant Rebecquestraat 8,0,F,0,0,Bovenwoning,none,€ 339.000 k.k.
+Koningin Emmakade 23,0,C,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 685.000 k.k.
+Nunspeetlaan 355,0,0,0,0,Benedenwoning,none,€ 329.500 k.k.
+Van Veendijk 51,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 604.000 -653.000
+Muzenplein 57,0,A,0,0,Bovenwoning,none,€ 650.000 k.k.
+Werfstraat 48,0,F,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 325.000 k.k.
+Pieter van den Zandestraat 5,0,C,0,0,Bovenwoning,none,€ 352.000 k.k.
+Sportlaan 1078,0,C,0,0,'Galerijflat, Dubbel bovenhuis',Goed,€ 450.000 k.k.
+Pomonaplein 88,0,C,0,0,'Portiekwoning, Dubbel bovenhuis',none,€ 400.000 k.k.
+Maasstraat 291,0,E,0,0,Bovenwoning,none,€ 295.000 k.k.
+Zeekant 101-D,0,C,0,0,Portiekflat,none,€ 490.000 k.k.
+Oude Polderweg 1,0,A,0,0,'Eengezinswoning, Hoekwoning',Uitstekend,€ 678.000 -730.000
+Spionkopstraat 12,0,none,0,0,Benedenwoning,none,€ 249.500 k.k.
+Wildhoeflaan 16,0,F,0,0,'Herenhuis, Hoekwoning',none,€ 1.450.000 k.k.
+Gedempte Gracht 511,0,C,0,0,Galerijflat,none,€ 299.000 k.k.
+Albert Schweitzerlaan 229,0,C,0,0,Maisonnette,none,€ 350.000 k.k.
+Pauwenlaan 32,0,F,0,0,'Herenhuis, Hoekwoning',none,€ 1.195.000 k.k.
+Olgaland 27,0,C,0,0,'Eengezinswoning, Hoekwoning',none,€ 749.000 k.k.
+Gravin Jacobalaan 10,0,A++,0,0,'Villa, Vrijstaande woning',none,€ 1.750.000 k.k.
+Populierstraat 88,0,E,0,0,Benedenwoning,Uitstekend,€ 450.000 k.k.
+Burgemeester Kolfschotenlaan 57,0,A,0,0,Woonhuis,none,€ 960.000 k.k.
+Joseph Ledelstraat 1-3,0,A,0,0,Benedenwoning,none,€ 450.000 k.k.
+Joseph Ledelstraat 1-5,0,A,0,0,Benedenwoning,none,€ 450.000 k.k.
+Joseph Ledelstraat 1-1,0,A,0,0,Benedenwoning,none,€ 650.000 k.k.
+Joseph Ledelstraat 1-2,0,A+,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 650.000 k.k.
+Nieuwe Parklaan 92,0,D,0,0,'Villa, 2-onder-1-kapwoning',none,€ 1.750.000 k.k.
+Binnentuinen 1,0,G,0,0,'Eengezinswoning, Hoekwoning',none,€ 281.000 -311.000
+Van Beverningkstraat 166,0,0,0,0,Woonhuis,none,€ 1.290.000 k.k.
+Anna van Buerenplein 54,0,A,0,0,Portiekflat,none,€ 699.000 k.k.
+Harlekijneendstraat 6,0,A,0,0,'Herenhuis, Tussenwoning',none,€ 725.000 k.k.
+Wassenaarsestraat 178,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 600.000 k.k.
+Laan van Meerdervoort 800,0,D,0,0,Herenhuis,none,€ 750.000 k.k.
+Havannasingel 53,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 575.000 k.k.
+Hattemlaan 4,0,D,0,0,Portiekflat,none,€ 239.000 k.k.
+Blaricumseplein 37,0,F,0,0,Portiekflat,none,€ 269.000 k.k.
+Burgemeester Patijnlaan 428,0,C,0,0,Maisonnette,none,€ 375.000 k.k.
+Gotland 27,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 510.000 k.k.
+Rhododendronstraat 43,0,E,0,0,Benedenwoning,none,€ 275.000 k.k.
+Gymnastiekplein 11,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 495.000 k.k.
+Wolweversgaarde 683,0,C,0,0,Portiekflat,none,€ 235.000 k.k.
+Hooftskade 105,0,B,0,0,Benedenwoning,none,€ 490.000 k.k.
+Dirk Hoogenraadstraat 121,0,D,0,0,'Benedenwoning, Bel-etage',none,€ 575.000 k.k.
+Nobelstraat 8,0,A,0,0,Bovenwoning,none,€ 689.000 k.k.
+Fischerstraat 201,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 450.000 k.k.
+Zeekant 103-A,0,C,0,0,Maisonnette,Goed,€ 415.000 k.k.
+Van Essendijk 154,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 475.000 k.k.
+Bosschestraat 54,0,B,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 365.000 k.k.
+Monstersestraat 160,0,D,0,0,Benedenwoning,none,€ 279.000 k.k.
+Violenweg 12,0,C,0,0,'Villa, 2-onder-1-kapwoning',none,€ 2.950.000 k.k.
+Toussaintkade 6,0,C,0,0,Bovenwoning,none,€ 349.500 k.k.
+Lyonnetstraat 63,0,D,0,0,Benedenwoning,none,€ 285.000 k.k.
+Terschellingsestraat 27,0,F,0,0,'Eengezinswoning, Tussenwoning',Goed,€ 452.000 -537.000
+Isabellaland 1552,0,G,0,0,Galerijflat,Ja,€ 225.000 k.k.
+Celebesstraat 90,0,F,0,0,'Herenhuis, Hoekwoning',none,€ 1.495.000 k.k.
+Burgemeester De Monchyplein 89,0,B,0,0,Bovenwoning,Ja,€ 750.000 k.k.
+Thomsonlaan 105-E,0,A+++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Koppelstokstraat 15,0,A,0,0,'Eengezinswoning, Geschakelde woning',none,€ 949.500 k.k.
+Weteringkade 79,0,B,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 415.000 k.k.
+Schalk Burgerstraat 66,0,none,0,0,Portiekwoning,none,€ 239.000 k.k.
+Liemerssingel 8,0,A,0,0,Herenhuis,none,€ 749.000 k.k.
+Ripperdastraat 5,0,C,0,0,Benedenwoning,none,€ 470.000 k.k.
+Ripperdastraat 7,0,none,0,0,Maisonnette,none,€ 565.000 k.k.
+Kepplerstraat 166,0,0,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 575.000 k.k.
+Nieuwe Parklaan 159,0,E,0,0,Bovenwoning,none,€ 975.000 k.k.
+Polsbroekstraat 46,0,D,0,0,Portiekflat,none,€ 237.500 k.k.
+Narcislaan 321,0,E,0,0,Benedenwoning,none,€ 315.000 k.k.
+San Franciscosingel 52,0,A,0,0,'Eengezinswoning, Eindwoning',none,€ 575.000 k.k.
+Beeldsnijdersgaarde 79,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 450.000 k.k.
+Noorderbeekdwarsstraat 23,0,0,0,0,'Herenhuis, Hoekwoning',none,€ 650.000 k.k.
+Zeekant 46-A,0,F,0,0,'Benedenwoning, Souterrain',none,€ 250.000 k.k.
+Abeelstraat 20,0,F,0,0,Portiekflat,none,€ 437.000 -483.000
+Groenland 18,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 525.000 k.k.
+Van Lennepweg 26,0,B,0,0,'Herenhuis, Tussenwoning',none,€ 1.750.000 k.k.
+Bragastraat 8,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',Ja,€ 289.000 k.k.
+Schenkkade 252,0,C,0,0,'Beneden + bovenwoning',none,€ 595.000 k.k.
+Luxemburgstraat 53,0,G,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 250.000 k.k.
+Abdis Badelogehof 4,0,A,0,0,'Villa, Vrijstaande woning',none,€ 1.395.000 k.k.
+Elisabeth Brugsmaweg 1-102,0,D,0,0,Benedenwoning,none,€ 200.000 k.k.
+Theo Mann-Bouwmeesterlaan 47,0,C,0,0,Maisonnette,none,€ 470.000 k.k.
+Vreeswijkstraat 19,0,D,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 400.000 k.k.
+Watervogelstraat 19,0,A,0,0,'Herenhuis, Tussenwoning',none,€ 575.000 k.k.
+Okkernootstraat 30,0,none,0,0,Portiekwoning,none,€ 265.000 k.k.
+Vinkensteynstraat 119,0,G,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 449.500 k.k.
+Rederijkerstraat 81,0,E,0,0,Portiekflat,none,€ 239.500 k.k.
+Vrederustlaan 303,0,A,0,0,'Eengezinswoning, Eindwoning',none,€ 519.995 k.k.
+Hulshorststraat 243,0,F,0,0,Benedenwoning,none,€ 260.000 k.k.
+Westenbergstraat 136,0,C,0,0,Bovenwoning,none,€ 352.500 k.k.
+Van den Berghstraat 77,0,G,0,0,Maisonnette,none,€ 245.000 k.k.
+Breitnerlaan 112,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 766.000 -899.000
+De la Reyweg 28,0,D,0,0,Benedenwoning,none,€ 329.500 k.k.
+Troelstrakade 43-C,0,A,0,0,Portiekflat,none,€ 349.500 k.k.
+Pippelingstraat 19,0,G,0,0,Bovenwoning,none,€ 339.500 k.k.
+Frederik Hendriklaan 200,0,G,0,0,'Benedenwoning, Dubbel bovenhuis',none,€ 982.000 -1.077.000
+Harstenhoekweg 131,0,0,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 595.000 k.k.
+De Gheijnstraat 36,0,E,0,0,'Eengezinswoning, Tussenwoning',none,€ 298.000 -330.000
+Henri Duparcplantsoen 43,0,C,0,0,Galerijflat,none,€ 194.000 k.k.
+Thomsonplein 31,0,D,0,0,'Eengezinswoning, Tussenwoning',none,€ 707.000 -833.000
+Guirlande 109,0,A,0,0,'Eengezinswoning, Halfvrijstaande woning',none,€ 845.000 k.k.
+Hart Nibbrigkade 25,0,B,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 695.000 k.k.
+Burgemeester Waldeckstraat 24,0,D,0,0,'Eengezinswoning, Tussenwoning',none,€ 275.000 k.k.
+Deltaplein 209,0,A,0,0,Bovenwoning,none,€ 1.590.000 k.k.
+Florence Nightingaleweg 18,0,A+++,0,0,'Eengezinswoning, Tussenwoning',none,€ 625.000 k.k.
+Prinsegracht 45,0,B,0,0,'Beneden + bovenwoning, Souterrain',none,€ 499.000 k.k.
+Maarsbergenstraat 91,0,C,0,0,Benedenwoning,none,€ 279.000 k.k.
+Arenastraat 13,0,A,0,0,'Herenhuis, 2-onder-1-kapwoning',none,€ 739.500 k.k.
+Havannasingel 23,0,none,0,0,Galerijflat,none,€ 325.000 k.k.
+Prins Mauritslaan 17,0,E,0,0,'Herenhuis, Hoekwoning',none,€ 1.150.000 k.k.
+Vogelwikke 1,0,A,0,0,'Eengezinswoning, Hoekwoning',none,€ 500.000 k.k.
+Medemblikstraat 72,0,A,0,0,Benedenwoning,none,€ 249.000 k.k.
+Coornhertstraat 19,0,E,0,0,'Portiekwoning, Dubbel bovenhuis',none,€ 295.000 k.k.
+Mosselsingel 7,0,B,0,0,'Eengezinswoning, Eindwoning',none,€ 535.000 k.k.
+De Brink 878,0,E,0,0,Portiekflat,none,€ 225.000 k.k.
+Wezelrade 147-A,0,C,0,0,'Portiekflat, Corridorflat',none,€ 225.000 k.k.
+Van Baaklaan 136,0,A,0,0,Bovenwoning,none,€ 410.000 k.k.
+Uddelstraat 91,0,A,0,0,Benedenwoning,none,€ 350.000 k.k.
+Zeewindelaan 8,0,B,0,0,'Herenhuis, Tussenwoning',none,€ 725.000 k.k.
+Hengelolaan 1232,0,E,0,0,Portiekflat,none,€ 295.000 k.k.
+Bocht van Guinea 6,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 569.000 k.k.
+Maarsbergenstraat 428,0,D,0,0,Appartement,none,€ 400.000 k.k.
+Steijnlaan 296,0,B,0,0,Galerijflat,none,€ 325.000 k.k.
+Edisonstraat 109,0,A,0,0,Bovenwoning,none,€ 375.000 k.k.
+Hoogeveenlaan 4-A,0,A,0,0,Maisonnette,none,€ 425.000 k.k.
+Egelantierstraat 39,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 475.000 k.k.
+Rotterdamsestraat 2-18,0,B,0,0,Bovenwoning,Uitstekend,€ 344.000 -379.000
+Dedemsvaartweg 1181,0,C,0,0,Bovenwoning,none,€ 295.000 k.k.
+Paramaribostraat 2-C,0,B,0,0,Portiekflat,none,€ 319.000 k.k.
+Mezenlaan 67,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 750.000 k.k.
+Frambozenstraat 74,0,F,0,0,Benedenwoning,none,€ 450.000 k.k.
+De Brink 790,0,E,0,0,Maisonnette,none,€ 375.000 k.k.
+Brilduikerstraat 62,0,A<small,0,0,'Eengezinswoning, Hoekwoning',Goed,€ 450.000 -496.000
+Seringenstraat 19,0,C,0,0,Bovenwoning,none,€ 282.500 k.k.
+Spireaveld 15,0,A,0,0,'Herenhuis, 2-onder-1-kapwoning',none,€ 740.000 k.k.
+De Perponcherstraat 112-B,0,A,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 699.500 k.k.
+Dalerveenstraat 12,0,A+,0,0,'Eengezinswoning, Eindwoning',none,€ 499.000 k.k.
+Halleystraat 59,0,C,0,0,Portiekflat,none,€ 300.000 k.k.
+Katschiplaan 112,0,A++,0,0,'Herenhuis, Hoekwoning',Uitstekend,€ 650.000 k.k.
+Jonckbloetplein 22,0,none,0,0,Portiekwoning,none,€ 234.500 k.k.
+Bussumsestraat 134,0,C,0,0,Benedenwoning,none,€ 270.000 k.k.
+Menkemastraat 34,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 495.000 k.k.
+Valkenboskade 108,0,F,0,0,Bovenwoning,none,€ 275.000 k.k.
+Dedemsvaartweg 825,0,0,0,0,Portiekflat,none,€ 425.000 k.k.
+Engelwortel 10,0,A,0,0,'Villa, Vrijstaande woning',none,€ 1.203.000 -1.324.000
+Troelstrakade 377,0,G,0,0,Portiekflat,none,€ 225.000 k.k.
+Burgemeester Patijnlaan 712,0,C,0,0,Bovenwoning,Ja,€ 307.000 -348.000
+Bergermeerstraat 63,0,A,0,0,Galerijflat,none,€ 382.500 k.k.
+Brugsestraat 7,0,E,0,0,'Eengezinswoning, Tussenwoning',none,€ 1.550.000 k.k.
+Abdis Heilwichstraat 32,0,A++,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 720.000 k.k.
+Senecastraat 23,0,A,0,0,'Herenhuis, Half vrijstaande woning',none,€ 749.500 k.k.
+Grevenbergstraat 11,0,A,0,0,Portiekflat,none,€ 365.000 k.k.
+Thomsonlaan 105-A,0,A+++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Thomsonlaan 107-A,0,A+++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Thomsonlaan 105-B,0,A++,0,0,Bovenwoning,none,€ 425.000 k.k.
+Aalbessenstraat 20,0,C,0,0,Portiekflat,none,€ 275.000 k.k.
+Wingerd 103,0,A,0,0,'Villa, Vrijstaande woning',none,€ 1.450.000 k.k.
+Badhuisstraat 183,0,C,0,0,Benedenwoning,none,€ 347.500 k.k.
+Aalbessenstraat 17,0,A,0,0,Bovenwoning,none,€ 495.000 k.k.
+'s-Gravenzandelaan 122,0,E,0,0,Benedenwoning,none,€ 275.000 k.k.
+'s-Gravenzandelaan 124,0,E,0,0,'Maisonnette, Dubbel bovenhuis',none,€ 325.000 k.k.
+Exloostraat 111,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 435.000 k.k.
+Houtzagerssingel 15,0,E,0,0,Benedenwoning,none,€ 250.000 k.k.
+Middenstip 14,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 535.000 k.k.
+Valkenboslaan 28,0,C,0,0,'Bovenwoning, Dubbel bovenhuis',Ja,€ 699.000 k.k.
+De Genestetlaan 54,0,0,0,0,Portiekflat,none,€ 209.000 k.k.
+Damasstraat 184,0,E,0,0,Benedenwoning,none,€ 279.500 k.k.
+Rijswijkse Landingslaan 134,0,A,0,0,'Beneden + bovenwoning',none,€ 385.000 k.k.
+Zevensterveld 8,0,B,0,0,'Herenhuis, Hoekwoning',none,€ 685.000 k.k.
+Amandelstraat 68,0,G,0,0,Portiekflat,none,€ 450.000 k.k.
+Melis Stokelaan 1856,0,A,0,0,'Tussenverdieping, Corridorflat',none,€ 340.000 k.k.
+Mozartlaan 288,0,E,0,0,Galerijflat,none,€ 239.000 k.k.
+Volendamlaan 1174,0,A,0,0,Maisonnette,none,€ 429.000 k.k.
+Regentesselaan 322-A,0,E,0,0,'Bovenwoning, Dubbel bovenhuis',Ja,€ 340.000 k.k.
+Uitgeeststraat 25,0,C,0,0,Galerijflat,none,€ 275.000 k.k.
+Vreeswijkstraat 116,0,F,0,0,Portiekflat,none,€ 219.500 k.k.
+Van Alkemadelaan 412,0,E,0,0,Portiekflat,Goed,€ 500.000 k.k.
+Laan van Wateringse Veld 334,0,A,0,0,Galerijflat,none,€ 429.000 k.k.
+Biancaland 92,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 539.500 k.k.
+Prinsestraat 61,0,0,0,0,'Bovenwoning, Dubbel bovenhuis',none,€ 499.000 k.k.
+Spionkopstraat 122,0,E,0,0,Portiekwoning,none,€ 220.000 k.k.
+Veenendaalkade 465,0,E,0,0,Portiekflat,none,€ 269.000 k.k.
+Van Baaklaan 176,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 525.000 k.k.
+Van Boetzelaerlaan 310,0,A+++,0,0,'Herenhuis, Tussenwoning',none,€ 1.700.000 k.k.
+Prins Hendrikstraat 95-A,0,C,0,0,Portiekwoning,none,€ 1.250.000 k.k.
+Elise van Calcarstraat 49,0,E,0,0,'Benedenwoning, Hoekwoning',none,€ 267.500 k.k.
+Linnaeusstraat 154,0,G,0,0,Bovenwoning,none,€ 220.000 k.k.
+Zuiderparklaan 390,0,0,0,0,Portiekflat,none,€ 267.500 k.k.
+Thorbeckelaan 625,0,E,0,0,Bovenwoning,none,€ 527.000 -583.000
+Oude Buizerdlaan 24,0,E<small,0,0,'Herenhuis, Eindwoning',Goed,€ 950.000 k.k.
+Hoenderloostraat 78,0,B,0,0,Portiekflat,none,€ 239.500 k.k.
+Van der Helststraat 34,0,G,0,0,Portiekwoning,none,€ 260.000 k.k.
+Gevers Deynootweg 1106,0,C,0,0,Portiekflat,none,€ 330.000 k.k.
+Wolmaransstraat 132,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 475.000 k.k.
+Oosteinde 90,0,A,0,0,'Eengezinswoning, 2-onder-1-kapwoning',none,€ 750.000 k.k.
+Starterstraat 15,0,C,0,0,'Eengezinswoning, Tussenwoning',none,€ 325.000 k.k.
+Rijswijkseweg 412,0,D,0,0,Bovenwoning,none,€ 242.000 -268.000
+Melis Stokelaan 25,0,E,0,0,Appartement,none,€ 230.000 -254.000
+Burgemeester Marijnenlaan 66,0,none,0,0,Portiekflat,none,€ 523.000 -578.000
+Hanenburglaan 150,0,D,0,0,Benedenwoning,none,€ 285.000 k.k.
+Gradaland 37,0,C,0,0,Galerijflat,none,€ 202.000 -224.000
+Dedemsvaartweg 679,0,C,0,0,Bovenwoning,none,€ 340.000 -376.000
+Mient 267,0,E,0,0,Woonhuis,none,€ 692.000 -764.000
+Carel Reinierszkade 167,0,F,0,0,Portiekflat,none,€ 470.000 -520.000
+Aarnout Drostlaan 17,0,E,0,0,Bovenwoning,none,€ 222.000 - 256.000
+Gevers Deynootweg 21-C,0,A,0,0,'Herenhuis, Tussenwoning',none,€ 928.000 -1.006.000
+New Yorksingel 51,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 699.000 -773.000
+Lievensbergstraat 48,0,A,0,0,Woonhuis,none,€ 435.000 -479.000
+Prins Hendrikstraat 161,0,G,0,0,Benedenwoning,none,€ 327.000 -360.000
+Stalpertstraat 15,0,F,0,0,Bovenwoning,none,€ 580.000 -642.000
+Rijswijkseweg 412,0,D,0,0,Bovenwoning,none,€ 242.000 -268.000
+Melis Stokelaan 25,0,E,0,0,Appartement,none,€ 230.000 -254.000
+Burgemeester Marijnenlaan 66,0,none,0,0,Portiekflat,none,€ 523.000 -578.000
+Hanenburglaan 150,0,D,0,0,Benedenwoning,none,€ 285.000 k.k.
+Gradaland 37,0,C,0,0,Galerijflat,none,€ 202.000 -224.000
+Dedemsvaartweg 679,0,C,0,0,Bovenwoning,none,€ 340.000 - 376.000
+Mient 267,0,E,0,0,Woonhuis,none,€ 692.000 -764.000
+Carel Reinierszkade 167,0,F,0,0,Portiekflat,none,€ 470.000 -520.000
+Aarnout Drostlaan 17,0,E,0,0,Bovenwoning,none,€ 222.000 -256.000
+Gevers Deynootweg 21-C,0,A,0,0,'Herenhuis, Tussenwoning',none,€ 928.000 -1.006.000
+New Yorksingel 51,0,A,0,0,'Eengezinswoning, Tussenwoning',none,€ 699.000 -773.000
+Lievensbergstraat 48,0,A,0,0,Woonhuis,none,€ 435.000 -479.000
+Prins Hendrikstraat 161,0,G,0,0,Benedenwoning,none,€ 327.000 -360.000
