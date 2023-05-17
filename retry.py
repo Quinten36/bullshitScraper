@@ -157,5 +157,5 @@ while len(linkList) > 1:
       #      list1[4]), 'type_woning': str(list1[5]).replace('\\n', ''), 'staat_woning': str(list1[6]).replace('\\n', ''), 'geschatte_prijs': str(list1[7]).replace('\\n', '')})
         # writer.writerow({'adres': str(list)})
     dataList.append(list1)
-    with open('./retru.json','w') as file:
-        json.dump(dataList,'./retry.json', indent=2)
+    with open('./retry.json','w') as file:
+        json.dump(dataList,file, indent=2)
