@@ -122,7 +122,7 @@ def getData(browser: webdriver.Chrome):
                         }
             spanJSONs.append(json_obj)
 
-    return elements
+    return spanJSONs
 
 
 prepareStuff()
