@@ -157,7 +157,7 @@ while len(linkList) > 1:
       #      list1[4]), 'type_woning': str(list1[5]).replace('\\n', ''), 'staat_woning': str(list1[6]).replace('\\n', ''), 'geschatte_prijs': str(list1[7]).replace('\\n', '')})
         # writer.writerow({'adres': str(list)})
     dataList.append(list1)
-    json.dump(dataList, indent=2)
+    json.dump(dataList,'./retry.json', indent=2)
     #Exception has occurred: TypeError
       #dump() missing 1 required positional argument: 'fp'
       #File "C:\Users\Burto\Documents\bullshitScraper\retry.py", line 160, in <module>
