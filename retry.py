@@ -130,6 +130,7 @@ prepareStuff()
 browser = getBrowser()
 
 print(len(linkList))
+dataList = []
 while len(linkList) > 1:
 
     numLock.acquire()
@@ -143,15 +144,23 @@ while len(linkList) > 1:
     list1 = getData(browser)
 
     csvLock.acquire()
-    with open('example2.csv', mode='a', newline='', encoding='UTF8') as csv_file:
-        fieldnames = ['adres', 'surface', 'energy_label', 'construction_year',
-                      'rooms', 'type_woning', 'staat_woning', 'geschatte_prijs']
-        # fieldnames = ['adres']
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+    # with open('example2.csv', mode='a', newline='', encoding='UTF8') as csv_file:
+    #     fieldnames = ['adres', 'surface', 'energy_label', 'construction_year',
+    #                   'rooms', 'type_woning', 'staat_woning', 'geschatte_prijs']
+    #     # fieldnames = ['adres']
+    #     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         # for list in list1:
-        print(len(list1))
+    print(len(list1))
         # writer.writerow({'adres': list1[0]})
-        writer.writerow({'adres': str(list1[0]), 'surface': int(list1[1]), 'energy_label': str(list1[2]).replace('\\n', ''), 'construction_year': int(list1[3]), 'rooms': int(
-            list1[4]), 'type_woning': str(list1[5]).replace('\\n', ''), 'staat_woning': str(list1[6]).replace('\\n', ''), 'geschatte_prijs': str(list1[7]).replace('\\n', '')})
+        #REGEL 155/156 AANPASSEN WANT HET IS NOG NIET IN STAAT JSON TE VERWERKEN
+        #writer.writerow({'adres': str(list1[0]), 'surface': int(list1[1]), 'energy_label': str(list1[2]).replace('\\n', ''), 'construction_year': int(list1[3]), 'rooms': int(
+      #      list1[4]), 'type_woning': str(list1[5]).replace('\\n', ''), 'staat_woning': str(list1[6]).replace('\\n', ''), 'geschatte_prijs': str(list1[7]).replace('\\n', '')})
         # writer.writerow({'adres': str(list)})
+    dataList.append(list1)
+    json.dump(dataList, indent=2)
+    #Exception has occurred: TypeError
+      #dump() missing 1 required positional argument: 'fp'
+      #File "C:\Users\Burto\Documents\bullshitScraper\retry.py", line 160, in <module>
+      #json.dump(dataList, indent=2)
+      #TypeError: dump() missing 1 required positional argument: 'fp'
     csvLock.release()
