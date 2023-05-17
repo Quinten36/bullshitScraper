@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "variableName": [
+        "\nRealistische woningwaarde\n"
+      ],
+      "liValue": [
+        "\n"
+      ]
+    },
+    {
+      "variableName": [
+        "Bieden"
+      ],
+      "liValue": []
+    },
+    {
+      "variableName": [
+        "Status"
+      ],
+      "liValue": []
+    },
+    {
+      "variableName": [
+        "Soort appartement"
+      ],
+      "liValue": []
+    },
+    {
+      "variableName": [
+        "Bouwjaar"
+      ],
+      "liValue": []
+    },
+    {
+      "variableName": [
+        "Energielabel"
+      ],
+      "liValue": [
+        "\n",
+        "\nD\n"
+      ]
+    },
+    {
+      "variableName": [
+        "Woonoppervlakte"
+      ],
+      "liValue": []
+    },
+    {
+      "variableName": [
+        "Gebouwgebonden buitenruimte"
+      ],
+      "liValue": [
+        "40 m",
+        "2"
+      ]
+    }
+  ]
+]

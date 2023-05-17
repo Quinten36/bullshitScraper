@@ -107,22 +107,29 @@ def is_integer(variable):
 def getData(browser: webdriver.Chrome):
     elements = []
     cookie_wall(browser)
-    elements.append(browser.find_element(By.TAG_NAME, 'h1').get_attribute(
-        'innerHTML').split('<')[0].replace('\"', '').replace('\n', ''))  # adres
+    elements.append(
+        browser.find_element(By.TAG_NAME, 'h1').get_attribute('innerHTML').split('<')[0].replace('\"', '').replace('\n', ''))  # adres
     container = browser.find_element(By.ID, 'featuresInnerContainer')
 
     spanJSONs = []
-    allAttributes = re.findall(
-        '<ul class="property-feature-list-large>(.+?)</ul>"', container.text)
+    allAttributes = re.findall('<ul class="property-feature-list-large">(.+?)</ul>', container.get_attribute('innerHTML'), re.DOTALL)
     for ul in allAttributes:
-        liList = re.findall('<li class="feature-item">(.+?)</li>', ul.text)
+        liList = re.findall('<li class="feature-item">(.+?)</li>', ul, re.DOTALL)
         for li in liList:
-            json_obj = {'variableName': re.findall('<span class="name">(.+?)</span)', li),
-                        'liValue': re.findall('>(.+?)<', re.findall('<span class="value"(.+?)</span>', li))
-                        }
+            span_match = re.findall('<span class="value"(.+?)</span>', li, re.DOTALL)
+            if span_match:
+                liValue = re.findall('>(.+?)<', span_match[0], re.DOTALL)
+            else:
+                liValue = []
+            json_obj = {
+                'variableName': re.findall('<span class="name">(.+?)</span>', li, re.DOTALL),
+                'liValue': liValue
+            }
             spanJSONs.append(json_obj)
 
     return spanJSONs
+
+
 
 
 prepareStuff()
